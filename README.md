@@ -1,3 +1,6 @@
+##Live Site Link
+https://jobfinder-global.onrender.com/
+
 ## Motivation
 In today's job market, individuals seeking employment across all sectors are required to apply through various online and offline platforms, such as LinkedIn, Instahyre, AngelList (Wellfound), naukri.com, employee referrals, company career pages, and employment exchanges. Managing and keeping track of these job applications can be a challenging and time-consuming task, which increases the risk of missing out on potential opportunities. Therefore, there is an immediate requirement for a dedicated portal that efficiently organizes this data, providing a user-friendly interface to streamline the job application process.JobFinder aims to address this need by offering a professional solution to simplify and expedite the job search experience.
 
